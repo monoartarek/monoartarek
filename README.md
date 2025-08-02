@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)](https://your-link.com)
+[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)]
 
 <h1 align="center">Hi 👋, I'm MD TAREK MONOAR</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh.</h3>
@@ -10,13 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [FECPoint](FECPoint)
-
-- 🤝 I’m looking for help with [FECPoint](FECPoint)
-
 - 👨‍💻 All of my projects are available at [https://monoartarek.github.io/portfolio/](https://monoartarek.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://monoartarek.github.io/portfolio/](https://monoartarek.github.io/portfolio/)
 
 - 💬 Ask me about **Django, React, SQL, HTML, CSS, JS, C, C++**
 
