@@ -42,7 +42,7 @@
       <tr>
         <td>Color Picker</td>
         <td>Dynamic color picker tool with HEX, RGB, HSL display.</td>
-        <td><a href="https://your-live-demo-link.com" target="_blank">Live Demo</a></td>
+        <td><a href="https://monoartarek.github.io/Color-picker-tool-hex-rgb-hsl-/" target="_blank">Live Demo</a></td>
       </tr>
       <tr>
         <td>Project 2</td>
