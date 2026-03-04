@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Gravity Compile](http://gravitycompile.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **[cocos game](https://www.cocos.com/en)**
 
 - 👨‍💻 All of my projects are available at [https://monoartarek.github.io/portfolio/](https://monoartarek.github.io/portfolio/)
 
-- 💬 Ask me about **Django, React, SQL, HTML, CSS, JS, C, C++**
+- 💬 Ask me about **Python,Django, React, SQL, HTML, CSS,Bootstrap,Tailwind css, JS, C, C++, Mongo DB, Parse server, REST API, Graph QL, CDN, Digital Ocean**
 
 - 📫 How to reach me **tarekmonoartarek@gmail.com**
 
