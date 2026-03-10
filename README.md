@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Gravity Compile](http://gravitycompile.com/)
 
-- 🌱 I’m currently learning **[cocos game](https://www.cocos.com/en)**
+- 🌱 I’m currently learning **[cocos Creator](https://www.cocos.com/en/creator)**
 
 - 👨‍💻 All of my projects are available at [https://monoartarek.github.io/portfolio/](https://monoartarek.github.io/portfolio/)
 
