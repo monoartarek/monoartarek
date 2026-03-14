@@ -51,12 +51,12 @@
       </tr>
       <tr>
         <td>Project 2</td>
-        <td>Description for project 2</td>
+        <td>Check</td>
         <td><a href="https://github.com/yourusername/project2" target="_blank">GitHub Repo</a></td>
       </tr>
       <tr>
         <td>Project 3</td>
-        <td>Description for project 3</td>
+        <td>Check</td>
         <td><a href="https://project3.com" target="_blank">Website</a></td>
       </tr>
     </tbody>
