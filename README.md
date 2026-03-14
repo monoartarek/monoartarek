@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://monoartarek.github.io/portfolio/](https://monoartarek.github.io/portfolio/)
 
-- 💬 Ask me about **Python,Django, React, SQL, HTML, CSS,Bootstrap,Tailwind css, GSAP, Three.js, JavaScript, C, C++, Mongo DB, Parse server, REST API, Graph QL, CDN, Digital Ocean**
+- 💬 Ask me about **Python,Django, React, SQL, HTML, CSS,Bootstrap,Tailwind css, GSAP, Three.js, JavaScript, C, C++, Mongo DB, Parse server, REST API, Graph QL, CDN, Digital Ocean and 2D game (cocos creator)**
 
 - 📫 How to reach me **tarekmonoartarek@gmail.com**
 
