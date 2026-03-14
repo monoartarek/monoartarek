@@ -41,7 +41,7 @@
     <tbody>
       <tr>
         <td>pikilive</td>
-        <td>Website app showcase</td>
+        <td>Pikilive Website</td>
         <td><a href="https://pikilive.com/" target="_blank">Live Demo</a></td>
       </tr>
       <tr>
